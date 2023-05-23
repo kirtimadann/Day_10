@@ -11,7 +11,6 @@ public class Contacts {
     private double phoneNumber;
     private String email;
 
-
     public String getFirstName() {
         return firstName;
     }
